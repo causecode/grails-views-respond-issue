@@ -1,0 +1,7 @@
+model {
+    Map work
+}
+
+json {
+    testRender work
+}

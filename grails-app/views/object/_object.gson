@@ -1,0 +1,5 @@
+model {
+    Object object
+}
+
+json g.render(object)
